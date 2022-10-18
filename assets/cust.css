@@ -1,0 +1,17 @@
+.cust-container{
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+.cust-form{
+    padding: 5%;
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+    /*margin-left: 5%;*/
+}
+.cust-form h3{
+    text-align: center;
+
+}
+.form-label1{
+	font-size: 20px;
+
+}
