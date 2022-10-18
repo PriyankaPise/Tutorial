@@ -26,9 +26,9 @@
 			background-color: #111;
 		}
 
-		.active {
+		/* .active {
 			background-color: green;
-		}
+		} */
 	</style>
 </head>
 <body>
